@@ -2,7 +2,7 @@
   "name": "pluginauth",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/E-Mikha/pluginAuth",
+  "homepage": "https://github.com/E-Mikha/plaginAuthFirebase",
   "main": "app.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
